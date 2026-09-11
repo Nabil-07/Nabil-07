@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nabil Irshad
+# Hi, I'm Nabil Irshad
 
 ---
 
