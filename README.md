@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I'm Nabil 👋
+Software Engineer | Backend Development
 
-<!--
-**Nabil-07/Nabil-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend services and APIs with Node.js, TypeScript,
+NestJS, Express.js and PostgreSQL.
 
-Here are some ideas to get you started:
+Currently working on backend services and data migration
+at IQVIA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────────────
+
+💻 Backend
+Node.js · TypeScript · NestJS · Express.js
+
+🗄️ Database
+PostgreSQL · MySQL · Snowflake · Prisma · TypeORM
+
+☁️ Cloud
+AWS · EC2 · S3 · RDS · CloudFront
+
+🔧 Tools
+Git · GitHub · GitLab CI/CD · Jira
+
+────────────────────────────────────────────
+
+🚀 Featured Projects
+
+Tunect
+A tutoring marketplace with ...
+→ Node.js · NestJS · PostgreSQL · Prisma · AWS
+
+Clinical Data ...
+Backend system for ...
+→ TypeScript · Express · PostgreSQL ...
+
+────────────────────────────────────────────
+
+📌 What I'm currently learning
+
+• Advanced NestJS
+• Microservices
+• PostgreSQL performance
+• System design
+• Distributed backend systems
+
+────────────────────────────────────────────
+
+Connect with me
+LinkedIn · Email
