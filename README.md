@@ -91,37 +91,6 @@ Machine learning project for diabetic retinopathy detection.
 
 🔗 [View Project](https://github.com/Nabil-07/Diabetic_Retinopathy_Detection)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nabil-07&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-07&layout=compact&theme=dark&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nabil-07&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabil-07&theme=github-dark&hide_border=true" />
-
-</div>
 
 ---
 
