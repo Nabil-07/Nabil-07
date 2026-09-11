@@ -1,49 +1,112 @@
-Hi, I'm Nabil 👋
-Software Engineer | Backend Development
+<div align="center">
 
-I build backend services and APIs with Node.js, TypeScript,
-NestJS, Express.js and PostgreSQL.
+NABIL IRSHAD
 
-Currently working on backend services and data migration
-at IQVIA.
+Software Engineer · Backend Development
 
-────────────────────────────────────────────
 
-💻 Backend
+
+
+
+</div>
+
+<div align="center">
+
+Node.js · TypeScript · NestJS · Express.js · PostgreSQL
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+About
+
+Software Engineer focused on backend development, REST APIs, database-driven applications and service-oriented architecture.
+
+Currently working on backend services and data migration at IQVIA.
+
+</td>
+<td width="50%" valign="top">
+
+Engineering Stack
+
+Backend
 Node.js · TypeScript · NestJS · Express.js
 
-🗄️ Database
-PostgreSQL · MySQL · Snowflake · Prisma · TypeORM
+Database
+PostgreSQL · MySQL · Snowflake
 
-☁️ Cloud
-AWS · EC2 · S3 · RDS · CloudFront
+ORM
+Prisma · TypeORM
 
-🔧 Tools
-Git · GitHub · GitLab CI/CD · Jira
+Cloud & Tools
+AWS · Git · GitHub · GitLab CI/CD · Jira
 
-────────────────────────────────────────────
+</td>
+</tr>
+</table>
 
-🚀 Featured Projects
+Featured Projects
 
-Tunect
-A tutoring marketplace with ...
-→ Node.js · NestJS · PostgreSQL · Prisma · AWS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Clinical Data ...
-Backend system for ...
-→ TypeScript · Express · PostgreSQL ...
+🎓 Tunect
 
-────────────────────────────────────────────
+Tutoring marketplace project with student and tutor workflows.
 
-📌 What I'm currently learning
+Built with
 
-• Advanced NestJS
-• Microservices
-• PostgreSQL performance
-• System design
-• Distributed backend systems
+TypeScript Node.js NestJS
+PostgreSQL Prisma AWS
 
-────────────────────────────────────────────
+<br>
 
-Connect with me
-LinkedIn · Email
+View repository →
+
+</td>
+
+<td width="50%" valign="top">
+
+🧠 Diabetic Retinopathy Detection
+
+Machine-learning project for diabetic retinopathy detection.
+
+Built with
+
+Python Jupyter Notebook
+
+<br>
+
+View repository →
+
+</td>
+</tr>
+</table>
+
+Backend Focus
+
+API Development       REST APIs · Authentication · Integrations
+Architecture          Modular Services · Microservices
+Databases             PostgreSQL · SQL · ORM
+Cloud                  AWS · EC2 · S3 · RDS · CloudFront
+Engineering            Git · CI/CD · Agile · Code Reviews
+
+<div align="center">
+
+GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nabil-07&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-07&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+</div>
+
+<div align="center">
+
+Building backend systems, learning continuously, and shipping code.
+
+</div>
